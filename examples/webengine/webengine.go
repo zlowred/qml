@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"gopkg.in/qml.v1"
-	"gopkg.in/qml.v1/webengine"
+	"github.com/zlowred/qml"
+	"github.com/zlowred/qml/webengine"
 )
 
 func main() {

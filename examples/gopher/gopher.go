@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gopkg.in/qml.v1"
-	"gopkg.in/qml.v1/gl/2.0"
+	"github.com/zlowred/qml"
+	"github.com/zlowred/qml/gl/2.0"
 	"os"
 )
 

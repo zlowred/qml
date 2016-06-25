@@ -16,9 +16,9 @@ import (
 	"time"
 
 	. "gopkg.in/check.v1"
-	"gopkg.in/qml.v1"
-	"gopkg.in/qml.v1/cpptest"
-	"gopkg.in/qml.v1/gl/2.0"
+	"github.com/zlowred/qml"
+	"github.com/zlowred/qml/cpptest"
+	"github.com/zlowred/qml/gl/2.0"
 	"path/filepath"
 )
 
